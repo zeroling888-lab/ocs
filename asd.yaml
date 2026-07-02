@@ -1,0 +1,9 @@
+proxies:
+  - name: "SS-2022 多用户节点"
+    type: ss
+    server: 146.190.101.57
+    port: 8443
+    cipher: 2022-blake3-aes-256-gcm
+    # 👇 格式为 "主密钥:用户密钥"，注意中间有一个英文冒号
+    password: "VOWiWXV9X3/uGkmyMzNxszY2ADE9utpKh1ZffTktKhk=" 
+    udp: true
