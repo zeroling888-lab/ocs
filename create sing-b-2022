@@ -1,0 +1,5 @@
+apt update 
+timedatectl set-timezone Asia/Shanghai
+
+bash <(curl -fsSL https://sing-box.app/deb-install.sh)
+vim /etc/sing-box/config.json 
