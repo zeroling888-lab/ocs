@@ -3,3 +3,13 @@ timedatectl set-timezone Asia/Shanghai
 
 bash <(curl -fsSL https://sing-box.app/deb-install.sh)
 vim /etc/sing-box/config.json 
+
+sing-box check -c /etc/sing-box/config.json
+
+systemctl daemon-reload
+
+systemctl enable --now sing-box
+
+systemctl status sing-box
+
+ufw allow 8443/tcp
