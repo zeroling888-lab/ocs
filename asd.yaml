@@ -1,7 +1,7 @@
 proxies:
   - name: "SS-2022 Singapore 3"
     type: ss
-    server: 138.197.197.131
+    server: 138.197.209.26
     port: 8443
     cipher: 2022-blake3-aes-256-gcm
   
