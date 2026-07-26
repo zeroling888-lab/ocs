@@ -1,7 +1,7 @@
 proxies:
   - name: "SS-2022hk lossssssssssss"
     type: ss
-    server: 47.243.232.102
+    server: 47.243.169.153
     port: 8443
     cipher: 2022-blake3-aes-256-gcm
   
