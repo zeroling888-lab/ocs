@@ -1,7 +1,7 @@
 proxies:
-  - name: "SS-2022hk 731"
+  - name: "SS-2022hk sbccp cnmd"
     type: ss
-    server: 47.243.142.55
+    server: 8.217.112.231
     port: 8443
     cipher: 2022-blake3-aes-256-gcm
   
