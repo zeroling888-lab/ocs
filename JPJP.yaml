@@ -1,7 +1,7 @@
 proxies:
-  - name: "SS-2022hk go erzi dont ban my jp916!"
+  - name: "SS-2022hk shabiccpcnmd919"
     type: ss
-    server: 8.216.19.17
+    server: 47.74.1.160
     port: 8443
     cipher: 2022-blake3-aes-256-gcm
   
