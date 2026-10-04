@@ -1,7 +1,7 @@
 proxies:
   - name: "SS-2022hk shabiccpcnmd919"
     type: ss
-    server: 47.74.1.160
+    server: 8.218.253.7
     port: 8443
     cipher: 2022-blake3-aes-256-gcm
   
